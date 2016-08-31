@@ -22,20 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="column-distinct-frequency" />
-        <module name="map-side-join" />
-        <module name="sql-join" />
-        <module name="word-count" />
+        <module name="secondarySorting" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="column-distinct-frequency" target="1.5" />
-      <module name="dataframeAssgn" target="1.5" />
-      <module name="hh" target="1.5" />
-      <module name="map-side-join" target="1.5" />
-      <module name="spark" target="1.5" />
-      <module name="sql-join" target="1.5" />
-      <module name="word-count" target="1.5" />
+      <module name="secondarySorting" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

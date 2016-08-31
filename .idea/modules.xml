@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/column-distinct-frequency/column-distinct-frequency.iml" filepath="$PROJECT_DIR$/column-distinct-frequency/column-distinct-frequency.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dataframeAssgn/dataframeAssgn.iml" filepath="$PROJECT_DIR$/dataframeAssgn/dataframeAssgn.iml" />
       <module fileurl="file://$PROJECT_DIR$/map-side-join/map-side-join.iml" filepath="$PROJECT_DIR$/map-side-join/map-side-join.iml" />
       <module fileurl="file://$PROJECT_DIR$/sql-join/sql-join.iml" filepath="$PROJECT_DIR$/sql-join/sql-join.iml" />
       <module fileurl="file://$PROJECT_DIR$/streamingWordCount.iml" filepath="$PROJECT_DIR$/streamingWordCount.iml" />
